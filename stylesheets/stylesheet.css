@@ -196,6 +196,9 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
+ul.profiles li {
+    list-style: none;
+}
 
 /* COMMON STYLES */
 
