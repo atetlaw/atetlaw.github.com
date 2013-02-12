@@ -129,6 +129,7 @@ ul#projects li {
     border-radius: 6px;
 }
 ul#projects li#cleverclues {
+    color: #fff;
     background-color: #C50021;
     background-image: url(../images/cleverclues-appicon.png);
 }
